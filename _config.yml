@@ -1,0 +1,15 @@
+title: Your Blog Name
+description: Innovation flows here. My thoughts on technology, design, and life.
+baseurl: ""
+url: "https://nelson.github.io"
+author: nelson
+email: your.email@example.com
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+github_username: yourusername
+twitter_username: yourusername
